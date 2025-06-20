@@ -1,3 +1,4 @@
 # Feedi2.0
-this is my first git repository
+This is my first git repository.
+<br>
 Author-RAIUAN AHMED FORHAD(Feedi2.0)
